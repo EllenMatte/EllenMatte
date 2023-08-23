@@ -15,7 +15,7 @@ Sou uma entusiasta de Ciência de Dados apaixonado por explorar insights valioso
 ## Projetos Destacados
 Alguns dos meus projetos de Ciência de Dados que podem ser encontrados aqui no meu GitHub:
 
-- [Projeto 1]((https://github.com/EllenMatte/Ciencia-De-Dados-Pratico)) - Tutoriais passo a passo para aprender conceitos e técnicas de Ciência de Dados
+- [Projeto 1] https://github.com/EllenMatte/Ciencia-De-Dados-Pratico - Tutoriais passo a passo para aprender conceitos e técnicas de Ciência de Dados
 
 
 ## Contribuições em Código Aberto
