@@ -24,6 +24,6 @@ Estou comprometido em contribuir para a comunidade de código aberto.
 ## Vamos Conectar!
 Estou sempre aberto a colaborações, discussões e oportunidades emocionantes na área de Ciência de Dados. Vamos conectar e aprender juntos:
 
-- [LinkedIn]((https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- [LinkedIn] www.linkedin.com/in/ellen-matte-193a97207
 
 Espero que encontre algo útil nos meus projetos e contribuições! 😄📊
